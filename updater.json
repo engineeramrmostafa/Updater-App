@@ -2,9 +2,12 @@
   "latestVersionCode": 100000100,
   "latestVersionName": "1.0.0.1",
   "changelog": {
-    "en": "Performance improved and login issue fixed",
-    "ar": "تم تحسين الأداء وإصلاح مشكلة تسجيل الدخول",
-    "fr": "Amélioration des performances et correction du problème de connexion"
+    "en": "👉 Performance improved 
+    login issue fixed 
+    sorry so hard",
+    "ar": "تم تحسين الأداء 👈
+    إصلاح مشكلة تسجيل الدخول",
+    "fr": "👉 Amélioration des performances et correction du problème de connexion"
   },
   "assets": {
     "armeabi-v7a": "https://github.com/engineeramrmostafa/Updater-App/releases/download/v1.0.0.1/VidLoad-1.0.0.1-arm64-v8a-release.apk?raw=true",
